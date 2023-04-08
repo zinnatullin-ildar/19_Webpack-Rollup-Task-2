@@ -1,0 +1,15 @@
+body {
+    background: #87ceeb;
+    padding: 0;
+    margin: 0;
+}
+
+.js-title {
+    font-size: 36px;
+    color: #ffffff;
+}
+
+.js-image {
+    width: 150px;
+    height: 150px;
+}
